@@ -1,0 +1,14 @@
+/*Martin Ruiz
+6/5/2022
+A: We Have Sound*/
+
+/*the following code adds style to the page*/
+body{
+background-color: indigo;
+text-align: center;
+color: cyan;
+
+}
+button{font-size: xx-large;
+    color: rgb(20, 147, 220);}
+   
